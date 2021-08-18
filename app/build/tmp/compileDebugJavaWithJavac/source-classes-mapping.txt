@@ -1,0 +1,18 @@
+com/itc/recyclerview/MainActivity.java
+ com.itc.recyclerview.MainActivity
+ com.itc.recyclerview.MainActivity$1
+com/itc/recyclerview/SetGetData.java
+ com.itc.recyclerview.SetGetData
+com/itc/recyclerview/Biodata.java
+ com.itc.recyclerview.Biodata
+ com.itc.recyclerview.Biodata$1
+com/itc/recyclerview/BuildConfig.java
+ com.itc.recyclerview.BuildConfig
+com/itc/recyclerview/MemberBiodata.java
+ com.itc.recyclerview.MemberBiodata
+com/itc/recyclerview/MemberList.java
+ com.itc.recyclerview.MemberList
+com/itc/recyclerview/Adapter.java
+ com.itc.recyclerview.Adapter
+ com.itc.recyclerview.Adapter$ViewHolder
+ com.itc.recyclerview.Adapter$ViewHolder$1
